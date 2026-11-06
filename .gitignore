@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+.DS_Store
+.claude/settings.local.json
+
+# Audio, model weights
+work/
+models/
+
+# Per-utterance raw outputs (recognized text and per-file metrics) are not published
+results/asr/
+results/asr_status/
+results/cer/*/*.details.jsonl
+results/quality/
+results/pipeline.log
+
+# Local-only: article drafts and memos
+articles/
+.devio/

@@ -1,0 +1,37 @@
+{
+  "empty_output_rate": 0.0,
+  "exact_match_rate": 0.3153846153846154,
+  "files": 650,
+  "normalized_cer": 0.06530262190639549,
+  "normalized_cer_ge_10pct": {
+    "count": 127,
+    "rate": 0.19538461538461538
+  },
+  "normalized_cer_ge_20pct": {
+    "count": 50,
+    "rate": 0.07692307692307693
+  },
+  "normalized_cer_ge_50pct": {
+    "count": 3,
+    "rate": 0.004615384615384616
+  },
+  "normalized_counts": {
+    "deletions": 727,
+    "errors": 2132,
+    "hits": 30841,
+    "insertions": 325,
+    "reference_characters": 32648,
+    "substitutions": 1080
+  },
+  "raw_cer": 0.10387081997251489,
+  "raw_counts": {
+    "deletions": 1958,
+    "errors": 3628,
+    "hits": 31597,
+    "insertions": 297,
+    "reference_characters": 34928,
+    "substitutions": 1373
+  },
+  "suspicious_repetition_count": 0,
+  "suspicious_repetition_rate": 0.0
+}

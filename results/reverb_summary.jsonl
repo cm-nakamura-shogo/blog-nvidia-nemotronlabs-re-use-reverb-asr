@@ -1,0 +1,3 @@
+{"condition": "rt60_0300ms", "files": 650, "clip_attenuated_files": 251, "rt60_measured_median": 0.307, "rt60_measured_range": [0.3, 0.319]}
+{"condition": "rt60_0600ms", "files": 650, "clip_attenuated_files": 260, "rt60_measured_median": 0.602, "rt60_measured_range": [0.581, 0.625]}
+{"condition": "rt60_1000ms", "files": 650, "clip_attenuated_files": 242, "rt60_measured_median": 0.995, "rt60_measured_range": [0.978, 1.034]}

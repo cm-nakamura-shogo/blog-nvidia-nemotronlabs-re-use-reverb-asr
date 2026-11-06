@@ -1,0 +1,42 @@
+{
+  "clean": {
+    "faster-whisper-large-v3": 0.04487258024993874,
+    "parakeet-tdt-ctc-0.6b-ja": 0.05936045086988483,
+    "reazonspeech-k2-v2": 0.09400269541778976
+  },
+  "clean+reuse": {
+    "faster-whisper-large-v3": 0.04484195050232786,
+    "parakeet-tdt-ctc-0.6b-ja": 0.05761455525606469,
+    "reazonspeech-k2-v2": 0.08285346728742955
+  },
+  "rt60_0300ms": {
+    "faster-whisper-large-v3": 0.049222004410683654,
+    "parakeet-tdt-ctc-0.6b-ja": 0.060309973045822106,
+    "reazonspeech-k2-v2": 0.09991423670668954
+  },
+  "rt60_0300ms+reuse": {
+    "faster-whisper-large-v3": 0.04566895368782161,
+    "parakeet-tdt-ctc-0.6b-ja": 0.05706321979906886,
+    "reazonspeech-k2-v2": 0.08371110022053418
+  },
+  "rt60_0600ms": {
+    "faster-whisper-large-v3": 0.05908478314138692,
+    "parakeet-tdt-ctc-0.6b-ja": 0.06530262190639549,
+    "reazonspeech-k2-v2": 0.1064383729478069
+  },
+  "rt60_0600ms+reuse": {
+    "faster-whisper-large-v3": 0.04882381769174222,
+    "parakeet-tdt-ctc-0.6b-ja": 0.058104631217838765,
+    "reazonspeech-k2-v2": 0.08447684391080618
+  },
+  "rt60_1000ms": {
+    "faster-whisper-large-v3": 0.0805256064690027,
+    "parakeet-tdt-ctc-0.6b-ja": 0.07740137221269297,
+    "reazonspeech-k2-v2": 0.12686841460426365
+  },
+  "rt60_1000ms+reuse": {
+    "faster-whisper-large-v3": 0.050661602548395,
+    "parakeet-tdt-ctc-0.6b-ja": 0.060064935064935064,
+    "reazonspeech-k2-v2": 0.08646777750551335
+  }
+}

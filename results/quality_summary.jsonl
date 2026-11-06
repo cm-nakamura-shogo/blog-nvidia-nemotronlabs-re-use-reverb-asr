@@ -1,0 +1,7 @@
+{"manifest": "/home/ubuntu/re-use/work/reverb/clean/manifest_reuse.jsonl", "files": 650, "pesq_wb_mean": 2.158, "stoi_mean": 0.7586}
+{"manifest": "/home/ubuntu/re-use/work/reverb/rt60_0300ms/manifest.jsonl", "files": 650, "pesq_wb_mean": 2.41, "stoi_mean": 0.7692}
+{"manifest": "/home/ubuntu/re-use/work/reverb/rt60_0300ms/manifest_reuse.jsonl", "files": 650, "pesq_wb_mean": 1.77, "stoi_mean": 0.7425}
+{"manifest": "/home/ubuntu/re-use/work/reverb/rt60_0600ms/manifest.jsonl", "files": 650, "pesq_wb_mean": 1.818, "stoi_mean": 0.6379}
+{"manifest": "/home/ubuntu/re-use/work/reverb/rt60_0600ms/manifest_reuse.jsonl", "files": 650, "pesq_wb_mean": 1.711, "stoi_mean": 0.7278}
+{"manifest": "/home/ubuntu/re-use/work/reverb/rt60_1000ms/manifest.jsonl", "files": 650, "pesq_wb_mean": 1.523, "stoi_mean": 0.5404}
+{"manifest": "/home/ubuntu/re-use/work/reverb/rt60_1000ms/manifest_reuse.jsonl", "files": 650, "pesq_wb_mean": 1.658, "stoi_mean": 0.7135}
