@@ -3,7 +3,7 @@ revision = 5
 requires-python = ">=3.13"
 
 [[package]]
-name = "blog-re-use-reverb-asr"
+name = "blog-nvidia-nemotronlabs-re-use-reverb-asr"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

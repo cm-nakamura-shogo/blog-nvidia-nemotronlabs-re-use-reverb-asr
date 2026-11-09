@@ -1,5 +1,5 @@
 [project]
-name = "blog-re-use-reverb-asr"
+name = "blog-nvidia-nemotronlabs-re-use-reverb-asr"
 version = "0.1.0"
 description = "会議室の残響を NVIDIA NemotronLabs RE-USE で取り除き、日本語音声認識の精度を比べる検証"
 requires-python = ">=3.13"
